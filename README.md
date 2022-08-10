@@ -45,7 +45,7 @@ For any issues related to the project, raise an ISSUE in the respective Reposito
 ## 💻 Screens
 
 <p align="justify">
-<img height="400" width="800" src="https://user-images.githubusercontent.com/76626529/183914444-4923b7da-1d22-4ca1-9b1a-cc83bce0056d.jpg">
+<img src="https://user-images.githubusercontent.com/76626529/183914444-4923b7da-1d22-4ca1-9b1a-cc83bce0056d.jpg">
 </p>
 <br/>
 
